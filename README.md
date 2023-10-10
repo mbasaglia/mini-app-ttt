@@ -1,15 +1,11 @@
-Event Telegram Mini-App Demo
-============================
+Tic Tac Toe Mini App
+====================
 
-Mini Apps is a Python framework to create [Telegram Mini Apps](https://core.telegram.org/bots/webapps).
+This app allows you to play tic tac toe (also known as naughts and crosses) against another player on Telegram.
 
-There are some built-in apps that showcase the features of both this framework and the mini apps feature on Telegram:
+Live instance: [@GlaxTicTacToeBot](https://t.me/GlaxTicTacToeBot).
 
-_Tic Tac Toe_ allows you to play tic tac toe (also known as naughts and crosses) against another player on Telegram.
-
-_Mini Events_ is a demo app that shows a list of events the user can attend.
-
-_Glaximini_ is a more complex app that allows the user to create animated stickers and share them on Telegram.
+More info in the [Tic Tac Toe app page](./docs/apps/tic_tac_toe.md).
 
 Full documentation is available on [Read the Docs](https://mini-apps.readthedocs.io/en/latest/).
 
@@ -23,7 +19,7 @@ See the [installation page](./docs/installation/basic.md) for installation and s
 Mini Apps
 ---------
 
-The installation guide above shows the configuration for the "Mini Events" app, which serves as a demo for the system.
+The installation guide above shows the configuration for the "Tic Tac Toe" app, which serves as a demo for the system.
 
 You can find detailed description, configuration options, and limitations of all the availble apps in the
 [Available Apps](./docs/apps/index.md) page.
